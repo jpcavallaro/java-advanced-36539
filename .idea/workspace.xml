@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4d55b5a-4857-4d2c-bd5b-ef1a140ee8de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/App2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +64,7 @@
       <recent name="com.educacionit.orders.class01" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.App2">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.educacionit.orders.class01.App" />
       <module name="java-advanced-36539" />
@@ -78,8 +78,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="App2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.educacionit.orders.class01.App2" />
+      <module name="java-advanced-36539" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.educacionit.orders.class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App2" />
         <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
@@ -108,7 +122,7 @@
       <updated>1578752041275</updated>
       <workItem from="1578752043387" duration="5025000" />
       <workItem from="1578758070653" duration="871000" />
-      <workItem from="1578758992860" duration="890000" />
+      <workItem from="1578758992860" duration="2698000" />
     </task>
     <task id="LOCAL-00001" summary="Probando mi primer commit (se agregó clase Test)">
       <created>1578758562943</created>
@@ -124,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578758833594</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Agregando clase APP.java del profesor">
+      <created>1578759952917</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578759952917</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +154,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Probando mi primer commit (se agregó clase Test)" />
     <MESSAGE value="Agregando archivo .gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agregando archivo .gitignore" />
+    <MESSAGE value="Agregando clase APP.java del profesor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregando clase APP.java del profesor" />
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578758775193">
@@ -144,38 +166,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578753558672" />
-    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1578759911184">
+    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1578761914268">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="261" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1578759911184" />
-    <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1578759933410">
+    <state x="261" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1578761914268" />
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1578760988783">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1578759933410" />
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1578760988783" />
     <state width="1323" height="86" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578757218758" />
-    <state width="1317" height="179" key="GridCell.Tab.0.center" timestamp="1578759933409">
+    <state width="1317" height="179" key="GridCell.Tab.0.center" timestamp="1578760988783">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1578759933409" />
+    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1578760988783" />
     <state width="1323" height="86" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578757218758" />
-    <state width="1317" height="179" key="GridCell.Tab.0.left" timestamp="1578759933409">
+    <state width="1317" height="179" key="GridCell.Tab.0.left" timestamp="1578760988783">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1578759933409" />
+    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1578760988783" />
     <state width="1323" height="86" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578757218758" />
-    <state width="1317" height="179" key="GridCell.Tab.0.right" timestamp="1578759933410">
+    <state width="1317" height="179" key="GridCell.Tab.0.right" timestamp="1578760988783">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1578759933410" />
+    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1578760988783" />
     <state width="1323" height="86" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578757218758" />
     <state x="186" y="10" key="SettingsEditor" timestamp="1578756834485">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578756834485" />
-    <state x="272" y="100" key="Vcs.Push.Dialog.v2" timestamp="1578758843016">
+    <state x="272" y="100" key="Vcs.Push.Dialog.v2" timestamp="1578759966950">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="272" y="100" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1578758843016" />
+    <state x="272" y="100" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1578759966950" />
     <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1578752045311">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
