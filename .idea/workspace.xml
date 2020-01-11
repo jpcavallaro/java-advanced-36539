@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4d55b5a-4857-4d2c-bd5b-ef1a140ee8de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/educacionit/orders/class01/App$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/educacionit/orders/class01/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/educacionit/orders/class01/EmailNotification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/educacionit/orders/class01/INotification.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/educacionit/orders/class01/PushNotification.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,8 +113,16 @@
       <option name="presentableId" value="Default" />
       <updated>1578752041275</updated>
       <workItem from="1578752043387" duration="5025000" />
-      <workItem from="1578758070653" duration="355000" />
+      <workItem from="1578758070653" duration="732000" />
     </task>
+    <task id="LOCAL-00001" summary="Probando mi primer commit (se agregó clase Test)">
+      <created>1578758562943</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578758562944</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,14 +133,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Probando mi primer commit (se agregó clase Test)" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="440" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578758775193">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="440" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1578758775193" />
     <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1578753558672">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578753558672" />
-    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1578758542713">
+    <state x="261" y="0" key="CommitChangelistDialog2" timestamp="1578758821179">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="261" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1578758542713" />
+    <state x="261" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1578758821179" />
     <state width="1323" height="86" key="GridCell.Tab.0.bottom" timestamp="1578757218758">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -149,6 +165,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578756834485" />
+    <state x="272" y="100" key="Vcs.Push.Dialog.v2" timestamp="1578758594856">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="272" y="100" key="Vcs.Push.Dialog.v2/0.0.1360.728@0.0.1360.728" timestamp="1578758594856" />
     <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1578752045311">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
