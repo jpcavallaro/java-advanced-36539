@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4d55b5a-4857-4d2c-bd5b-ef1a140ee8de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/educacionit/orders/class01/App2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Clase 3/java-advanced-36539-master" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -123,6 +123,7 @@
       <workItem from="1578752043387" duration="5025000" />
       <workItem from="1578758070653" duration="871000" />
       <workItem from="1578758992860" duration="2698000" />
+      <workItem from="1579964083511" duration="793000" />
     </task>
     <task id="LOCAL-00001" summary="Probando mi primer commit (se agregó clase Test)">
       <created>1578758562943</created>
@@ -170,6 +171,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="261" y="0" key="CommitChangelistDialog2/0.0.1360.728@0.0.1360.728" timestamp="1578761914268" />
+    <state x="460" y="122" key="FileChooserDialogImpl" timestamp="1579964869129">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="122" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1579964869129" />
     <state width="1317" height="179" key="GridCell.Tab.0.bottom" timestamp="1578760988783">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
